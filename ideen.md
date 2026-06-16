@@ -1,7 +1,7 @@
 # Ideen
 
 ## Charaktere
--
+- Kiba
 
 ## Abenteuer
 -
